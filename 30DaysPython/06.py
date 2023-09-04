@@ -1,0 +1,14 @@
+# #1
+# tup=tuple()
+# #2
+# bro=('Aman','Ashish','John','Pam')
+# sis=('Netanya','Azeez','Zaheen')
+# #3
+# sib=bro+sis
+# print(sib)
+# #4
+# print(len(sib))
+# #5
+# family_mem=list(sib)
+# family_mem=family_mem.append('Pop')
+# print(family_mem)
